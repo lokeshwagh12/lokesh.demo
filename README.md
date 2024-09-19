@@ -1,3 +1,3 @@
 # lokesh.demo
-this is my first repository
-author- lokesh wagh
+This is my first repository.
+Author- lokesh wagh
